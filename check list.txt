@@ -1,0 +1,10 @@
+1. connect pc to internet
+2. get ip from cmd ipconfig
+3. connect mobile to internet
+4. lock gps in mobile
+5. run wamp in pc
+6. connect modem to pc and see the COM port and Baud rate from Device Manager
+7. run android app, enter bus no and ip that you got from step 2
+8. Press Start in android app
+9. Login to server using student acc(username:002,pass:002) to see Student current location
+10. Login to server using Admin(username:admin, pass:admin) acc to see start Msg sending service(use 1 min interval)
